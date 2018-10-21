@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "libft.h"
+#include "../incl/../incl/../incl/../incl/../incl/../incl/libft.h"
 
 int		ft_atoiptr(const char *restrict *str)
 {
